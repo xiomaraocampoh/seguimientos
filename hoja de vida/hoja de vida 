@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoja de Vida de Xiomara Ocampo Hurtado</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        h1 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Xiomara Ocampo Hurtado</h1>
+        <p>Bachiller Técnico en Desarrollo de Software</p>
+    </header>
+    <section>
+        <h2>Información Personal</h2>
+        <ul>
+            <li><strong>Nombre:</strong> Xiomara Ocampo Hurtado</li>
+            <li><strong>Email:</strong> ocampohurtadoxiomara@gmail.com</li>
+            <li><strong>Teléfono:</strong> 3143882295</li>
+            <li><strong>Ubicación:</strong> Colombia, armenia</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Educación</h2>
+        <ul>
+            <li><strong>Bachiller Técnico en Desarrollo de Software</strong> - Nombre de la institución, Año de graduación</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Cursos Extracurriculares</h2>
+        <ul>
+            <li>Nombre del curso - Institución - Año de finalización</li>
+            <!-- Agrega más cursos si es necesario -->
+        </ul>
+    </section>
+</body>
+</html>
