@@ -48,14 +48,14 @@
     <section>
         <h2>Educación</h2>
         <ul>
-            <li><strong>Bachiller Técnico en Desarrollo de Software</strong> - Nombre de la institución, Año de graduación</li>
+            <li><strong>Bachiller Técnico en Desarrollo de Software</strong> - ciudadela del sur/ 2023</li>
         </ul>
     </section>
     <section>
         <h2>Cursos Extracurriculares</h2>
         <ul>
-            <li>Nombre del curso - Institución - Año de finalización</li>
-            <!-- Agrega más cursos si es necesario -->
+            <li>curso en aplicación de electrónica y robótica en proyectos de investigación- SENA</li>
+           
         </ul>
     </section>
 </body>
